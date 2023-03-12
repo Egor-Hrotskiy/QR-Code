@@ -7,3 +7,4 @@ This is a solution to the [QR-code component challenge on Frontend Mentor](https
 - Grid
 ### Data
 - Frontend Mentor - [@Egor-Hrotskiy](https://www.frontendmentor.io/profile/Egor-Hrotskiy)
+- [Live View](https://ki-qr-code.netlify.app/)
